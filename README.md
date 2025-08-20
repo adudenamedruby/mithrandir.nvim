@@ -1,6 +1,6 @@
 # mithrandir
 
-A clean, dark Neovim theme written in Lua, with support for lsp and other important plugins.
+A clean, dark Neovim theme written in Lua, with support for some plugins.
 
 Inspired by my custom Xcode theme.
 
