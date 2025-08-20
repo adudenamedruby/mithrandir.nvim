@@ -2,8 +2,6 @@
 
 A clean, dark Neovim theme written in Lua, with support for some plugins.
 
-Inspired by my custom Xcode theme.
-
 ## Install (lazy.nvim)
 
 ```lua
@@ -23,4 +21,3 @@ Inspired by my custom Xcode theme.
 }
 
 ```
-Heck yes!
