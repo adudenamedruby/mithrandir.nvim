@@ -21,5 +21,6 @@ Inspired by my custom Xcode theme.
     vim.cmd.colorscheme("mithrandir")
   end,
 }
-
 ```
+
+happy vimming!
