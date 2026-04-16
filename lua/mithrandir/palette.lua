@@ -2,7 +2,7 @@ local P = {}
 
 P.dark = {
     -- base
-    bg = "#101010",
+    bg = "#1E1E1E",
     fg = "#D3D1C9",
     selection = "#4C3D0C",
     cursorline = "#211C0B",
@@ -21,7 +21,7 @@ P.dark = {
     regex = "#747A35",
     url = "#7ACCFE",
 
-    black = "#1A1A1A",
+    black = "#1E1E1E",
     red = "#9B1725",
     green = "#A8C09A",
     yellow = "#CC8807",
