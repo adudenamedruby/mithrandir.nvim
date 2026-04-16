@@ -8,7 +8,7 @@ Inspired by my custom Xcode theme.
 
 ```lua
 {
-  "yourname/nvim-mithrandir",
+  "adudenamedruby/nvim-mithrandir",
   lazy = false,
   priority = 1000,
   opts = {
