@@ -26,6 +26,7 @@ M.config = {
         oil = true,
         harpoon = true,
         hovercraft = true,
+        fzf_lua = true,
     },
 }
 
@@ -89,6 +90,9 @@ function M.load()
     end
     if M.config.plugins.hovercraft then
         apply(require("mithrandir.integrations.hovercraft").setup(P))
+    end
+    if M.config.plugins.fzf_lua then
+        apply(require("mithrandir.integrations.fzf-lua").setup(P))
     end
 end
 

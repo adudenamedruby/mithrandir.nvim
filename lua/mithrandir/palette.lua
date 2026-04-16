@@ -21,7 +21,7 @@ P.dark = {
     regex = "#747A35",
     url = "#7ACCFE",
 
-    black = "#101010",
+    black = "#1A1A1A",
     red = "#9B1725",
     green = "#A8C09A",
     yellow = "#CC8807",
